@@ -171,7 +171,7 @@ Terminalを開き、作業ディレクトリで以下のコマンドを実行
 ### 1. リポジトリのクローン
 
 ```bash
-git clone https://github.com/shogokajiwara/ai_paper_rag.git
+git clone https://github.com/gomachanq/ai_paper_rag.git
 cd ai_paper_rag
 ```
 
@@ -242,7 +242,7 @@ Terminalを開き、作業ディレクトリで以下のコマンドを実行
 ### 1. リポジトリのクローン
 
 ```zsh
-git clone https://github.com/shogokajiwara/ai_paper_rag.git
+git clone https://github.com/gomachanq/ai_paper_rag.git
 cd ai_paper_rag
 ```
 
